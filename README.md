@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koustav Manna</h1>
 <h3 align="center">A simple guy who is trying to build next gen apps using frontend tech. Also exploring over other fields as I 💖 to learn new techs.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/970021/screenshots/4644255/job-banners.png?compress=1&resize=800x600">
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web 3.0**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kou25](https://github.com/kou25)
 
